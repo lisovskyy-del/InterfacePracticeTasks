@@ -1,0 +1,14 @@
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\bin\Debug\net10.0\MainProgram.exe
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\bin\Debug\net10.0\MainProgram.deps.json
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\bin\Debug\net10.0\MainProgram.runtimeconfig.json
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\bin\Debug\net10.0\MainProgram.dll
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\bin\Debug\net10.0\MainProgram.pdb
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\MainProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\MainProgram.AssemblyInfoInputs.cache
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\MainProgram.AssemblyInfo.cs
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\MainProgram.csproj.CoreCompileInputs.cache
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\MainProgram.dll
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\refint\MainProgram.dll
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\MainProgram.pdb
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\MainProgram.genruntimeconfig.cache
+C:\Users\manin\source\repos\InterfacePractice\MainProgram\obj\Debug\net10.0\ref\MainProgram.dll
