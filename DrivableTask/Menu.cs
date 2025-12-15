@@ -1,14 +1,13 @@
-﻿namespace MainProgram;
-class Program
+﻿namespace MainProgram.DrivableTask;
+
+class Menu
 {
-    static void Main(string[] args)
+    public static void Run()
     {
         while (true)
         {
-            Console.WriteLine("\nChoose task: \n");
-            Console.WriteLine("1. Array");
-            Console.WriteLine("2. Shape");
-            Console.WriteLine("3. Drivable");
+            Console.WriteLine("\n1. Start the car");
+            Console.WriteLine("2. Start the bike");
             Console.WriteLine("0. Exit");
             Console.Write("Your choice: ");
             string? input = Console.ReadLine();
@@ -17,24 +16,26 @@ class Program
             {
                 if (userChoice == 0)
                 {
-                    Console.WriteLine("\nExitting...");
-                    return;
+                    Console.WriteLine("\nExitting..");
+                    break;
                 }
                 else if (userChoice == 1)
                 {
-                    ArrayTask.Menu.Run();
+                    Car car = new();
+                    car.StartEngine();
+                    car.Drive();
+                    car.StopEngine();
                 }
                 else if (userChoice == 2)
                 {
-                    ShapeTask.Menu.Run();
-                }
-                else if (userChoice == 3)
-                {
-                    DrivableTask.Menu.Run();
+                    Bike bike = new();
+                    bike.StartEngine();
+                    bike.Drive();
+                    bike.StopEngine();
                 }
                 else
                 {
-                    Console.WriteLine("\nInvalid choice! Enter a number between 0-3!");
+                    Console.WriteLine("\nInvalid choice! Enter a number between 0-2!");
                 }
             }
             else
