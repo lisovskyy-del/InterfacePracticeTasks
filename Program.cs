@@ -24,6 +24,10 @@ class Program
                 {
                     ArrayTask.Menu.Run();
                 }
+                else if (userChoice == 2)
+                {
+                    ShapeTask.Menu.Run();
+                }
                 else
                 {
                     Console.WriteLine("\nInvalid choice! Enter a number between 0-3!");
